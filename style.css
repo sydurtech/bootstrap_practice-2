@@ -1,0 +1,259 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.{}
+.navBarCustomized{
+	background-color:transparent;
+	border-bottom:1px solid #887A79;
+	margin-bottom:0px;
+
+}
+.navbar-fixed-top{
+	position: absolute;
+
+}
+#logo{
+	color:#B5ACB1;	
+	font-weight: bold;
+}
+
+.headerbg{
+	background-image: url(header.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 50px 0px;
+}
+.header-text{
+	text-align: center;
+}
+.header-text h2{
+	color: #fff;
+	font-size: 46px;
+	padding-bottom: 20px;
+}
+.header-text p{
+	color: #B5ACA9;
+	padding-bottom: 20px;
+}
+.header-text button{
+	text-transform: uppercase;
+	padding: 10px 20px;
+	border: none;
+	background: coral;
+	color: white;
+	border-radius: 20px;
+	margin-top: 25px; 
+	font-weight: bold;
+}
+.header-text button:hover{
+	background: #ededed;
+	color: coral;
+	transition: 0.2s;
+}
+.bg-Scont{
+	background: #F05F40;
+	padding: 100px 0px;
+}
+.content-2{
+	text-align: center;
+}
+.content-2 h2{
+	color: #FFFFFF;
+	/*margin-bottom: 10px;*/
+	padding-bottom: 10px; 
+	font-size: 40px;
+}
+.content-2 p{
+	color: #FBCEC4;
+	font-size: 18px;
+	padding-top: 10px;
+}
+.button-get button{
+	text-transform: uppercase;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 20px;
+	background: #fff;
+	margin-top: 45px;
+}
+.button-get button:hover{
+	background: #ededed;
+	color: coral;
+	transition: 0.2s;
+}
+.{}
+.{}
+.service-promo{
+	padding: 60px 0px;
+
+	/*background: #E5E5E5;*/
+}
+.service-title{
+	text-align: center;
+	
+	
+}
+.service-title h2{
+	font-size: 40px;
+	color: #333333;
+	padding-bottom: 30px;
+}
+.service-img{
+	text-align: center;
+	
+}
+.service-img h2{
+	color: #333333;
+	font-size: 30px;
+}
+.service-img p{
+	color: #3F3F3F;
+	font-size: 18px;
+}
+.{}
+.{}
+.img-s{
+	color: coral;
+	width: 100%;
+
+}
+.section-padding{
+	margin-top: 60px;
+}
+.bg1{
+	background-image: url(1.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: .8;
+}
+.bg2{
+	background-image: url(2.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: .8;
+}
+.bg3{
+	background: url(3.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: .8;
+}
+.bg4{
+	background: url(4.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: .8;
+}
+.bg5{
+	background: url(5.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: .8;
+}
+.bg6{
+	background: url(6.jpg);
+	background-size: cover;
+	background-position: center;
+	opacity: .8;
+}
+.promo-text-hover{
+	
+	opacity: 0;
+	text-align: center;
+	color: #fff;
+	margin: 0px;
+	padding: 70px 0px;
+	min-height: 100%;
+	background: #F05F40;
+	
+
+}
+.p-zero{
+
+}
+.{}
+.{}
+.promo-text-hover h3{
+	text-transform: uppercase;
+	margin: 0px;
+	font-size: 22px;
+	text-align: center;
+	padding-top: 5px;
+	line-height: 24px;
+}
+.promo-text-hover h2{
+	text-transform: uppercase;
+	margin: 0px;
+	font-size: 26px;
+	text-align: center;
+	padding-bottom: 5px;
+}
+.bg-Scont5{
+	background: #222222;
+	color: #fff;
+	padding: 70px 0px;
+}
+.content-5{
+	text-align: center;
+}
+.content-5 h2{
+	color: #FFFFF8;
+	font-size: 32px;
+
+}
+.button-dwn button{
+	text-transform: uppercase;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 20px;
+	background: #fff;
+	margin-top: 25px;
+	color: black;
+}
+.button-dwn button:hover{
+	color: white;
+	background: coral;
+}
+.infoarea5{
+	padding: 40px 0px;
+}
+.infoArea{
+	text-align: center;
+	padding-bottom: 20px; 
+}
+.infoArea h2{
+	font-size: 26px;
+	color: #222222;
+	padding-bottom: 10px;
+}
+.infoArea p{
+	font-size: 14px;
+	color: #333;
+}
+.{}
+.{}
+.infoService{
+	text-align: center;
+}
+.infoService span{
+	display: block;
+	padding-top: 10px;
+	color: #333;
+}
+.fabg{
+	color: coral;
+}
+.footer{
+	background: #222222;
+	padding: 30px 0px;
+	text-align: center;
+}
+.footertext{
+	
+	color: white;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.{}
